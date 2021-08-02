@@ -28,6 +28,7 @@
         "post-install-cmd": ["composer exec \"phan --init\""]
     },
     "require": {
+        "php": ">=8.0.0",
         "ericfortmeyer/php-ds": "^1.0",
         "psr/container": "1.1"
     }

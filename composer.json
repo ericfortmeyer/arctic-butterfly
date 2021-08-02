@@ -1,5 +1,5 @@
 {
-    "name": "php-ant/php-ant",
+    "name": "ericfortmeyer/php-stag",
     "description": "A lightweight dependency injection system",
     "keywords": ["dependency","injection","wiring","container","IOC","ioc","di"],
     "type": "library",

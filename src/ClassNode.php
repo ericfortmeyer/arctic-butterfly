@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace PhpStag;
+namespace ArcticButterfly;
 
 use Countable;
 use PhpDs\{

@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpStag;
+namespace ArcticButterfly;
 
 use PhpDs\Node;
 

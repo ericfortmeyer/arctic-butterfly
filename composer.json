@@ -1,5 +1,5 @@
 {
-    "name": "ericfortmeyer/php-stag",
+    "name": "ericfortmeyer/arctic-butterfly",
     "description": "A lightweight dependency injection system",
     "keywords": ["dependency","injection","wiring","container","IOC","ioc","di"],
     "type": "library",
@@ -11,7 +11,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "PhpStag\\": "src/"
+            "ArcticButterfly\\": "src/"
         }
     },
     "authors": [

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace PhpAnt;
+namespace PhpStag;
 
 final class ServiceContainer implements \Psr\Container\ContainerInterface
 {

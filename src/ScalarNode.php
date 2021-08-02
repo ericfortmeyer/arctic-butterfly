@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpAnt;
+namespace PhpStag;
 
 use PhpDs\Node;
 

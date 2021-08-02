@@ -24,7 +24,8 @@
         "test": "composer exec \"phpunit\"",
         "analyze": "composer exec \"phan\"",
         "lint": "composer exec \"phpcs src --standard=PSR12\"",
-        "lint-fix": "composer exec \"phpcbf src --standard=PSR12\""
+        "lint-fix": "composer exec \"phpcbf src --standard=PSR12\"",
+        "post-install-cmd": ["composer exec \"phan --init\""]
     },
     "require": {
         "ericfortmeyer/php-ds": "^1.0",
